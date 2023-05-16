@@ -1,6 +1,0 @@
-
-renderer: {
-  type: markdown,
-  descriptive_class_title: false,
-  render_toc: true
-}
