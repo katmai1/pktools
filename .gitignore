@@ -1,1 +1,4 @@
 .vscode
+pktools/__pycache__
+pktools.egg-info
+dist
