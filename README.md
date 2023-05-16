@@ -1,5 +1,6 @@
 # pktools
-Utilities for development
+
+Utilities for development. See [Documentation](docs/index.md)
 
 ### Installation
 
@@ -8,8 +9,3 @@ pip install pktools
 ```
 
 ### Examples
-
-
-### Documentation
-
-[Documentation](docs/index.md)

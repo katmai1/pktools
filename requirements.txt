@@ -1,0 +1,7 @@
+pydoc-markdown
+toml
+ccxt
+audioplayer
+discord-wekhook
+eventlet
+gevent
